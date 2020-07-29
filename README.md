@@ -1,7 +1,7 @@
 # React Shopping Cart 
 ![Shopping Cart](https://i.ibb.co/nDhZVLd/screenshot-localhost-3000-2020-07-30-00-42-45.png)
 
-### [Live Site](https://web-codegrammer-shopping-cart.netlify.app)
+### [Live Here](https://web-codegrammer-shopping-cart.netlify.app)
 ## Available Scripts
 
 In the project directory, you can run:
@@ -41,7 +41,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Bootstrap-4-Website-landing-Page/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/React-Shopping-Cart/blob/master/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
 
